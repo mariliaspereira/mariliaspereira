@@ -3,8 +3,9 @@
 
 ## 📊 GitHub Stats
 
-![Marilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
+![Marilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariliaspereira&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariliaspereira&layout=compact&theme=radical)
 
 
 <!--
