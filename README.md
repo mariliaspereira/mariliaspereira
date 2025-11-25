@@ -15,13 +15,11 @@ Atualmente estou:
 
 <div align="center">
 
-<!-- Mirror estável para sempre carregar -->
-<img height="160" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariliaspereira&show_icons=true&theme=radical](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariliaspereira&show_icons=true&theme=radical
-)" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariliaspereira&show_icons=true&theme=radical" />
 
-<img height="160" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariliaspereira&layout=compact&theme=radical](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariliaspereira&layout=compact&theme=radical
-)" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariliaspereira&layout=compact&theme=radical" />
 
 </div>
+
 
 ---
