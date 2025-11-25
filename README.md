@@ -1,9 +1,6 @@
 <!-- Banner simples ou título -->
 <h1 align="center">👋 Olá! Eu sou a Marília </h1>
 
----
-
-Atualmente estou:
 - 💡 Iniciando minha jornada em Dados
 - 📘 Estudando Power BI, SQL e Python  
 - 📈 Desenvolvendo meu portfólio para estágio em Dados  
