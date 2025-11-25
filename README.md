@@ -1,25 +1,26 @@
-## Hi there 👋
+<!-- Banner simples ou título -->
+<h1 align="center">👋 Oi! Eu sou a Marília Pereira</h1>
 
+
+---
+
+Atualmente estou:
+- 💡 Iniciando minha jornada em Dados
+- 📘 Estudando Power BI, SQL e Python  
+- 📈 Desenvolvendo meu portfólio para estágio em Dados  
+- 🎯 Buscando minha primeira oportunidade na área  
+
+---
 
 ## 📊 GitHub Stats
 
-![Marilia's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariliaspereira&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariliaspereira&layout=compact&theme=radical)
+<!-- Mirror estável para sempre carregar -->
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariliaspereira&show_icons=true&theme=radical" />
 
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariliaspereira&layout=compact&theme=radical" />
 
+</div>
 
-<!--
-**mariliaspereira/mariliaspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
