@@ -1,5 +1,5 @@
 <!-- Banner simples ou título -->
-<h1 align="center">👋 Olá! Eu sou a Marília </h1>
+<h1 align="center">👋 Olá! </h1>
 
 - 💡 Iniciando minha jornada em Dados
 - 📘 Estudando Power BI, SQL e Python  
