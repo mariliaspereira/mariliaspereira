@@ -1,9 +1,10 @@
 <!-- Banner simples ou título -->
 <h1 align="center">👋 Olá! </h1>
 
-- 💡 Iniciando minha jornada em Dados
+Atualmente estou:
+- 💡 Iniciando minha jornada em Dados e em Q&A
 - 📘 Estudando Power BI, SQL e Python  
-- 📈 Desenvolvendo meu portfólio para estágio em Dados  
+- 📈 Desenvolvendo meu portfólio para estágio
 - 🎯 Buscando minha primeira oportunidade na área  
 
 ---
