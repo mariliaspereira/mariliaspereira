@@ -2,22 +2,25 @@
 <h1 align="center">👋 Olá! </h1>
 
 Atualmente estou:
-- 💡 Iniciando minha jornada em Dados e em Q&A
-- 📘 Estudando Power BI, SQL e Python  
-- 📈 Desenvolvendo meu portfólio para estágio
-- 🎯 Buscando minha primeira oportunidade na área  
+- 📘 Estudando Front-end e Data Analytics, com foco em criar soluções visuais e deshaboards interativos
+- 🎯 Desenvolvendo meu portfólio e buscando minha primeira oportunidade na área  
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariliaspereira&show_icons=true&theme=radical" />
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariliaspereira&layout=compact&theme=radical" />
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-
-
----
